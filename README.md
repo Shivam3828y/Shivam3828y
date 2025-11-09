@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivam3828y
+- 👋 Hi, I’m Shivam Yadav
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning  java
 - 💞️ I’m looking to collaborate on  my next project which hasn't been created 
